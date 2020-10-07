@@ -1,2 +1,3 @@
 # helo-world
-training repository
+Training repository
+## Hello, I'm new here!
